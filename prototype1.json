@@ -66,7 +66,7 @@
 	"deviceId": "",
 	"event": "event",
 	"format": "json",
-	"name": "processRequest",
+	"name": "processRequestNow",
 	"x": 811,
 	"y": 303,
 	"wires": []

@@ -1,12 +1,19 @@
 [{
 	"id": "41e935d1.d2619c",
 	"type": "inject",
+	
 	"z": "d100b337.680e88",
+	
 	"name": "GetDate",
+	
 	"topic": "",
+	
 	"payload": "",
+	
 	"payloadType": "date",
+	
 	"repeat": "5",
+	
 	"crontab": "",
 	"once": true,
 	"x": 205,
